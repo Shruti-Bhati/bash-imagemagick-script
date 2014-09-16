@@ -1,3 +1,4 @@
+#Coverting to images size 1080x1920
 directory=./images
 for image in $directory/*
 do

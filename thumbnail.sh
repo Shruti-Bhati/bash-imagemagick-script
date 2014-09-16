@@ -1,3 +1,4 @@
+#converting to images size 400x400
 directory=./images
 for image in $directory/*
 do
